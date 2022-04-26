@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MelihAtes
-- 👀 I’m interested in gaming, reading and watching movies/shows
+- 👀 I’m interested in gaming, reading and watching films
 - 💻 I’m currently learning html, css, js and c++
 - 📫 How to reach me melihates2004@gmail.com
 
